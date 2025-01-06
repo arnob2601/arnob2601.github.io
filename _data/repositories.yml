@@ -6,5 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - RAIL-group/Task-Planning-ai2Thor
   - RAIL-group/Task-Planning-Restaurant
-  - RAIL-group/RAIL-lsp-dev
   - arnob2601/docker-gcn
