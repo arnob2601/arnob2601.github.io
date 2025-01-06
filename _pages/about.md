@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Research Assisstant, <a href='https://cs.gmu.edu/~gjstein/'>RAIL group, GMU</a> | Fairfax, Virginia | rarnob@gmu.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2201 Volgenau School of Engineering</p>
+    <p>4511 Patriot Cir</p>
+    <p>Fairfax, VA 22030</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Raihan. I am a Ph.D. student in the Department of Computer Science at [George Mason University (GMU)](https://www.gmu.edu/). Currently, I am working as a Graduate Research Assisstant in the RAIL group under the super vision of [Dr. Gregory J. Stein](https://cs.gmu.edu/~gjstein/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my Bachelors Degree in Computer Science and Engineering (CSE) from the [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/), Bangladesh, in 2016. I joined IUT as a Lecturer in the Department of CSE, where I served until December 2019. I have completed my Masters Degree in Computer Science at GMU in 2023 and I am continuing to work towards my Ph.D here as well.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest involes making robot efficiently operate in partially known environments. This composites my fiddling space to robotics, planning under uncertainty, and machine learning.

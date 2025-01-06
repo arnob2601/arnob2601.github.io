@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Raihan Islam Arnob
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th October 1995
     - name: Languages
-      value: English, German
+      value: English, Bangla
 
 - title: Education
   type: time_table
