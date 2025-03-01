@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-paper-active-information-gathering-for-long-horizon-navigation-under-uncertainty-by-learning-the-value-of-information-at-iros-24",
           title: 'Presented Paper: Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the...',
           description: "",
+          section: "News",},{id: "news-accepted-paper-anticipatory-planning-for-performant-long-lived-robot-in-large-scale-home-like-environments-at-icra-25",
+          title: 'Accepted Paper: Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
