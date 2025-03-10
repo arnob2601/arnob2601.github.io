@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-improving-reliable-navigation-under-uncertainty-with-non-local-information-informed-predictions",
+        },{id: "post-write-your-own-youtube-ad-blocker",
+      
+        title: "Write your own YouTube Ad-blocker",
+      
+      description: "An attempt to custom YouTube Ad-blocker.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/custom-youtube-adblocker/";
+        
+      },
+    },{id: "post-improving-reliable-navigation-under-uncertainty-with-non-local-information-informed-predictions",
       
         title: 'Improving Reliable Navigation under Uncertainty with Non-Local Information Informed Predictions <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
