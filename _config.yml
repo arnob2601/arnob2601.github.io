@@ -129,7 +129,10 @@ external_sources:
     posts:
       - url: https://cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/
         published_date: 2023-10-01
-
+  - name: RAIL Blog
+    posts:
+      - url: https://cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/
+        published_date: 2025-05-01
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
