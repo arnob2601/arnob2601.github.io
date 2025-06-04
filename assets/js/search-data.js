@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-write-your-own-youtube-ad-blocker",
+        },{id: "post-anticipatory-planning-for-performant-long-lived-robot-in-large-scale-home-like-environments",
+      
+        title: 'Anticipatory Planning for Performant Long-Lived Robot in Large-scale Home-like Environments <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "We improve the performance of a household mobile robot using anticiaptory planning for large-scale home and restaurant like environments.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/", "_blank");
+        
+      },
+    },{id: "post-write-your-own-youtube-ad-blocker",
       
         title: "Write your own YouTube Ad-blocker",
       
