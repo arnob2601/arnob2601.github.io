@@ -5,23 +5,16 @@
     "image": "",
     "email": "rarnob@gmu.edu",
     "phone": "(385) 528-77xx",
-    "url": "https://raihan.github.io",
+    "url": "https://arnob2601.github.io",
     "summary": "Optimization Virus",  
-    "research interests": "Robotics, Planning under Uncertainty, Machine Learning, Artificial Intelligence",
+    "research interests": "Robotics, Planning under Uncertainty, Information Gathering, Machine Learning, Artificial Intelligence",
     "location": {
       "address": "GMU",
       "postalCode": "VA 22030",
       "city": "Fairfax",
       "countryCode": "US",
       "region": "Virginia"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -64,7 +57,7 @@
       "studyType": "Doctor of Philosophy",
       "startDate": "2020-08-17",
       "endDate": "PRESENT",
-      "score": "3.84"
+      "score": "3.85"
     },
     {
       "institution": "George Mason University",
@@ -98,9 +91,9 @@
   "publications": [
     {
       "name": "Code to comment translation: A comparative study on model effectiveness & errors",
-      "publisher": "arXiv preprint",
+      "publisher": "ACL",
       "releaseDate": "2021-06-15",
-      "url": "https://arxiv.org/abs/2106.08415",
+      "url": "https://aclanthology.org/2021.nlp4prog-1.1/",
       "summary": "This paper is a qualitative investigation into the various error modes of current state-of-the-art models for automated source code summarization. Instead of automatic reference metric for error, manual coding was used to analyze that qualitatively."
     },
     {
@@ -121,8 +114,15 @@
       "name": "Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the Value of Information",
       "publisher": "IEEE",
       "releaseDate": "2024-10-15",
-      "url": "https://arxiv.org/abs/2403.03269",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10801868",
       "summary": "In this paper we address the task of long-horizon navigation in partially mapped environments for which active gathering of information about faraway unseen space is essential for good behavior. We present a novel planning strategy that, at training time, affords tractable computation of the value of information associated with revealing potentially informative regions of unseen space, data used to train a graph neural network to predict the goodness of temporally-extended exploratory actions. Our learning-augmented model-based planning approach predicts the expected value of information of revealing unseen space and is capable of using these predictions to actively seek information and so improve long-horizon navigation."
+    },
+    {
+      "name": "Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments",
+      "publisher": "IEEE",
+      "releaseDate": "2025-05-21",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11128153",
+      "summary": "This research addresses the challenge of robots performing sequential tasks in persistent, large-scale environments. Traditional planners often act myopically, optimizing only for the immediate task without considering future consequences. While anticipatory planning can improve efficiency by factoring in expected future costs, it typically struggles to scale in environments with numerous assets. To solve this, the authors introduce a scalable, model-based anticipatory task planning framework. By leveraging a graph neural network and a scene graph representation, the model learns key environmental properties to estimate future costs. Combined with a sampling-based procedure, this approach significantly reduces the overall cost of task sequences in various environments, especially when the robot is allowed to prepare in advance."
     }
   ],
   "skills": [
@@ -134,7 +134,9 @@
         "Docker",
         "PyTorch",
         "git",
-        "PDDL"
+        "PDDL",
+        "CI/CD",
+        "ROS2"
       ]
     },
     {
