@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - RAIL-group/railroad
   - RAIL-group/Task-Planning-ai2Thor
   - RAIL-group/Task-Planning-Restaurant
   - arnob2601/docker-gcn

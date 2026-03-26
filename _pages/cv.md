@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: CV/Profile
 nav: true
 nav_order: 4
 cv_pdf: CV___Raihan.pdf # you can also use external links here
