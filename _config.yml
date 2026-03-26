@@ -32,7 +32,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -127,11 +127,11 @@ external_sources:
   #   rss_url: https://medium.com/@al-folio/feed
   - name: RAIL Blog
     posts:
-      - url: https://cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/
+      - url: https://people.cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/
         published_date: 2023-10-01
   - name: RAIL Blog
     posts:
-      - url: https://cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/
+      - url: https://people.cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/
         published_date: 2025-05-01
 # -----------------------------------------------------------------------------
 # Newsletter
