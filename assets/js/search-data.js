@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
-          title: "publications",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "My publication list.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Some of my repositories from github.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-cv-profile",
+          title: "CV/Profile",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -45,7 +45,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.open("https://cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/", "_blank");
+          window.open("https://people.cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/", "_blank");
         
       },
     },{id: "post-write-your-own-youtube-ad-blocker",
@@ -67,7 +67,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.open("https://cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/", "_blank");
+          window.open("https://people.cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/", "_blank");
         
       },
     },{id: "news-presented-paper-improving-reliable-navigation-under-uncertainty-via-predictions-informed-by-non-local-information-at-iros-23",
@@ -81,6 +81,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-accepted-paper-anticipatory-planning-for-performant-long-lived-robot-in-large-scale-home-like-environments-at-icra-25",
           title: 'Accepted Paper: Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments at...',
+          description: "",
+          section: "News",},{id: "news-presented-proposal-defense-presentation-and-advanced-to-candidacy",
+          title: 'Presented: Proposal defense presentation and advanced to candidacy.',
+          description: "",
+          section: "News",},{id: "news-presented-pre-defense-dissertation-presentation-and-cleared-for-public-defense",
+          title: 'Presented: Pre-defense dissertation presentation and cleared for public defense.',
           description: "",
           section: "News",},{
         id: 'social-email',
