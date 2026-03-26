@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Presented Paper: *Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the Value of Information* at iROS'24.
+Presented Paper: *Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the Value of Information* at IROS'24.
 
