@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graduate Research Assisstant, <a href='https://cs.gmu.edu/~gjstein/'>RAIL group, GMU</a> | Fairfax, Virginia | rarnob@gmu.edu
 
