@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Graduated with a Ph.D. degree in Computer Science from George Mason University.
-

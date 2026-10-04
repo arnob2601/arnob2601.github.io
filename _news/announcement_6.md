@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented: *Proposal defense* presentation and advanced to candidacy.
-
+Presented: _Proposal defense_ presentation and advanced to candidacy.

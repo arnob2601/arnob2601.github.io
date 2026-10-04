@@ -5,5 +5,4 @@ inline: True
 related_posts: false
 ---
 
-Accepted Paper: *Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the Value of Information* at IROS'24.
-
+Accepted Paper: _Active Information Gathering for Long-Horizon Navigation Under Uncertainty by Learning the Value of Information_ at IROS'24.
