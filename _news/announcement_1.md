@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented Paper: *Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information* at IROS'23.
+Presented Paper: _Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information_ at IROS'23.

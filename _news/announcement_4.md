@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted Paper: *Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments* at ICRA'25.
-
+Accepted Paper: _Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments_ at ICRA'25.

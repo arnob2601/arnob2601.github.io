@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented: Dissertation publicly on *Effective Long-horizon Planning under Uncertainty for Indoor Mobile Robots*.
-
+Presented: Dissertation publicly on _Effective Long-horizon Planning under Uncertainty for Indoor Mobile Robots_.

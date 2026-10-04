@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted Paper: *Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection* at IROS'26.
-
-
+Accepted Paper: _Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection_ at IROS'26.

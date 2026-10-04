@@ -25,11 +25,7 @@
       "startDate": "2026-08-21",
       "endDate": "PRESENT",
       "summary": "Teaching CS courses and mentoring student research and projects.",
-      "highlights": [
-        "Robotics",
-        "Long-horizon Planning",
-        "Uncertainty"
-      ]
+      "highlights": ["Robotics", "Long-horizon Planning", "Uncertainty"]
     },
     {
       "name": "Department of Computer Science, George Mason University",
@@ -39,9 +35,7 @@
       "startDate": "2020-08-16",
       "endDate": "2026-05-13",
       "summary": "Working on progressing the robotics frontier for planning under uncertainty.",
-      "highlights": [
-        "Robotics"
-      ]
+      "highlights": ["Robotics"]
     },
     {
       "name": "Department of Computer Science, Utah State University",
@@ -51,9 +45,7 @@
       "startDate": "2020-01-01",
       "endDate": "2020-08-15",
       "summary": "Worked on research projects related to usable security and privacy.",
-      "highlights": [
-        "Human Computer Interaction"
-      ]
+      "highlights": ["Human Computer Interaction"]
     },
     {
       "name": "Department of Computer Science and Engineering, Islamic University of Technology",
@@ -63,11 +55,7 @@
       "startDate": "2017-01-01",
       "endDate": "2019-12-31",
       "summary": "Conducted undergraduate courses, labs, and supervised undergraduate projects.",
-      "highlights": [
-        "Web Programming",
-        "Mathematical Analysis",
-        "Data Structures"
-      ]
+      "highlights": ["Web Programming", "Mathematical Analysis", "Data Structures"]
     }
   ],
   "education": [
@@ -159,32 +147,13 @@
       "name": "Tools & Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Docker",
-        "PyTorch",
-        "git",
-        "PDDL",
-        "CI/CD",
-        "ROS2"
-      ]
+      "keywords": ["Docker", "PyTorch", "git", "PDDL", "CI/CD", "ROS2"]
     },
     {
       "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C",
-        "C++",
-        "Java",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL",
-        "PHP",
-        "Bash",
-        "MATLAB"
-      ]
+      "keywords": ["Python", "C", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL", "PHP", "Bash", "MATLAB"]
     }
   ],
   "languages": [

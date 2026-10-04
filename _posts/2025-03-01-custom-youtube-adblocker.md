@@ -7,10 +7,9 @@ tags: adblocker
 categories: hands-on-learning
 ---
 
-
 # Building a Custom YouTube Ad Blocker: A Learning Experience
 
-So, I attempt to make my very own Ad-blocker for YouTube. Even though, I realize that we can just use a browser called `Brave` to save us the trouble or use extensions like `uBlock` that mostly works. But the latter is often a hit or miss and there is NO FLEX in it! 
+So, I attempt to make my very own Ad-blocker for YouTube. Even though, I realize that we can just use a browser called `Brave` to save us the trouble or use extensions like `uBlock` that mostly works. But the latter is often a hit or miss and there is NO FLEX in it!
 
 But trying to get it to work felt like an exciting experience, even though I could not get it to work in a usable way.
 
@@ -37,7 +36,7 @@ Also the Ad-blocker that runs only on extension needs to be maintained as the co
 
 So here it goes. First, I wanted to learn that why my trusty extension that I used to use 2 years ago is no longer working out of the box. It seems like YouTube had been making changes on their end that made it difficult for the ad blocking extension to work the way they worked.
 
-So? I do not know but I noticed that when the YouTube links are embedded in any website no ads pass through. This bit of insight struck me when I was going over the `NeetCode` videos on YouTube. 
+So? I do not know but I noticed that when the YouTube links are embedded in any website no ads pass through. This bit of insight struck me when I was going over the `NeetCode` videos on YouTube.
 
 When I watched the video on YouTube (as in www.youtube.com) it would start off with an ad and every time I scrolled the slider I would meet with another ad. But when I watch the same video but from [neetcode.io](http://neetcode.io) that has it embedded no-Ads!
 
@@ -55,7 +54,7 @@ So, I know that if I can embed the link somehow to a website, I can have Ads-fre
 
 ### Call for Help
 
-I turn towards the AI, my trusty friend with lots of information and knowledge as well. So, first thing I needed was a listener on browser end that tracks if I am visiting a YouTube video link; if the link is in fact a YT-video link, then we close the tab and embed the link to a locally hosted website and open it on a new tab. 
+I turn towards the AI, my trusty friend with lots of information and knowledge as well. So, first thing I needed was a listener on browser end that tracks if I am visiting a YouTube video link; if the link is in fact a YT-video link, then we close the tab and embed the link to a locally hosted website and open it on a new tab.
 
 ### How it Works
 

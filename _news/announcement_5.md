@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented: *Pre-defense* dissertation presentation and cleared for public defense.
-
+Presented: _Pre-defense_ dissertation presentation and cleared for public defense.
