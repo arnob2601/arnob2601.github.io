@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-anticipatory-planning-for-performant-long-lived-robot-in-large-scale-home-like-environments",
-      
-        title: 'Anticipatory Planning for Performant Long-Lived Robot in Large-scale Home-like Environments <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We improve the performance of a household mobile robot using anticiaptory planning for large-scale home and restaurant like environments.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://people.cs.gmu.edu/~gjstein/2025/5/anticipatory-planning-at-scale/", "_blank");
-        
-      },
-    },{id: "post-write-your-own-youtube-ad-blocker",
+        },{id: "post-write-your-own-youtube-ad-blocker",
       
         title: "Write your own YouTube Ad-blocker",
       
@@ -57,17 +46,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/custom-youtube-adblocker/";
-        
-      },
-    },{id: "post-improving-reliable-navigation-under-uncertainty-with-non-local-information-informed-predictions",
-      
-        title: 'Improving Reliable Navigation under Uncertainty with Non-Local Information Informed Predictions <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We improve reliable, long-horizon, goal-directed navigation in partially-mapped environments by using non- locally available information to predict the goodness of temporally-extended actions that enter unseen space.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://people.cs.gmu.edu/~gjstein/2023/10/reliable-non-local-nav/", "_blank");
         
       },
     },{id: "news-presented-paper-improving-reliable-navigation-under-uncertainty-via-predictions-informed-by-non-local-information-at-iros-23",
@@ -96,6 +74,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-accepted-paper-object-search-in-partially-known-environments-via-llm-informed-model-based-planning-and-prompt-selection-at-iros-26",
           title: 'Accepted Paper: Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt...',
+          description: "",
+          section: "News",},{id: "news-joined-university-of-lynchburg-i-have-recently-joined-university-of-lynchburg-as-an-assistant-professor-of-computer-science-within-the-school-of-liberal-arts-and-sciences",
+          title: 'Joined University of Lynchburg: I have recently joined University of Lynchburg as an...',
           description: "",
           section: "News",},{
         id: 'social-email',
