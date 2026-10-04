@@ -1,22 +1,36 @@
 {
   "basics": {
     "name": "Raihan Islam Arnob",
-    "label": "Recent PhD Graduate",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "rarnob@gmu.edu",
+    "email": "arnob_ri@lynchburg.edu",
     "phone": "(385) 528-77xx",
     "url": "https://arnob2601.github.io",
     "summary": "Optimization Virus",
     "research interests": "Robotics, Planning under Uncertainty, Information Gathering, Machine Learning, Artificial Intelligence",
     "location": {
-      "address": "GMU",
-      "postalCode": "VA 22030",
-      "city": "Fairfax",
+      "address": "University of Lynchburg",
+      "postalCode": "VA 24501",
+      "city": "Lynchburg",
       "countryCode": "US",
       "region": "Virginia"
     }
   },
   "work": [
+    {
+      "name": "Department of Computer Science, University of Lynchburg",
+      "location": "Virginia, USA",
+      "position": "Assistant Professor",
+      "url": "https://example.com",
+      "startDate": "2026-08-21",
+      "endDate": "PRESENT",
+      "summary": "Teaching CS courses and mentoring student research and projects.",
+      "highlights": [
+        "Robotics",
+        "Long-horizon Planning",
+        "Uncertainty"
+      ]
+    },
     {
       "name": "Department of Computer Science, George Mason University",
       "location": "Virginia, USA",
